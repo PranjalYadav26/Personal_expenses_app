@@ -1,4 +1,4 @@
-# meon
+# Personal_expenses_app
 
 A new Flutter project.
 
